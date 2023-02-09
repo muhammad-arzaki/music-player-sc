@@ -1,1 +1,1 @@
-# music-player-sc
+# Music Player SC
